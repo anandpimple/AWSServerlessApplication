@@ -7,7 +7,7 @@ Resources:
     Properties:
       Handler: Hello.printHello
       Runtime: python3.6
-      CodeUri: ./
+      CodeUri: .
       Description: A starter AWS Lambda function.
       MemorySize: 128
       Timeout: 3
